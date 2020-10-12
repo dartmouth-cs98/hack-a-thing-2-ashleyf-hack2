@@ -1,6 +1,12 @@
 ## Short description of what you attempted to build
 I built a game in unity. The game is a first person shooter type game. I essentially followed the tutorials that unity provided that helped me modify the game to my own liking. I added a room to the game and moved some level objects. I learned how to alter appearances of specific objects, such as the object's color and shape. I also messed around with builidng a kart game. In this game, I added a lot of different prefabs.
 
+Tutorial links: 
+https://learn.unity.com/tutorial/fps-mod-share-your-game-on-the-web?projectId=5d9c91a4edbc2a03209169ab#5da703daedbc2a0021289ed6
+https://learn.unity.com/project/fps-template
+https://learn.unity.com/project/karting-template
+
+
 
 ## Who did what (if you worked with someone else)
 I worked by myself.
